@@ -1,0 +1,7 @@
+#Wed Aug 15 17:39:52 CAT 2018
+base.0=C\:\\Users\\Heston\\Desktop\\Bid4Cattle\\Bid4Cattle3\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_1260979a1081f882ae75bbde6c3d5576151f07c4
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\Heston\\Desktop\\Bid4Cattle\\Bid4Cattle3\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_db9306e97f8b1e280265edcb7b2d53fae68a76b6\\classes.dex
+base.1=C\:\\Users\\Heston\\Desktop\\Bid4Cattle\\Bid4Cattle3\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_db9306e97f8b1e280265edcb7b2d53fae68a76b6
+file.0=C\:\\Users\\Heston\\Desktop\\Bid4Cattle\\Bid4Cattle3\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_1260979a1081f882ae75bbde6c3d5576151f07c4\\classes.dex
